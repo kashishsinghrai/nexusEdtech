@@ -624,7 +624,7 @@ document.addEventListener("DOMContentLoaded", function () {
     Theme: ${currentTheme} mode (click 🌙/☀️ to toggle)
     
     Our B-friends Team:
-    • Sarah Mitchell - CEO & Managing Director
+    • hover - CEO & Managing Director
     • Rahul Sharma - Chief Technology Officer  
     • Emily Chen - Head of Product Development
     • Marcus Rodriguez - VP of Global Operations

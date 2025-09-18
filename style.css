@@ -796,7 +796,7 @@ select.form-control {
 }
 
 .nav__link {
-  color: var(--color-text);
+  color: var(--color-primary);
   font-weight: var(--font-weight-medium);
   text-decoration: none;
   transition: color var(--duration-fast) var(--ease-standard);
